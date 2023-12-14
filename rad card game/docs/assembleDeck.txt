@@ -1,0 +1,34 @@
+	 /**
+	  * The assembleDeck() method is a private method.
+	  * It is given entirely to the student.
+	  * It must NOT be modified.
+	  */
+	private void assembleDeck()
+	{
+		deck.add( new Card( "Dragon", "Aquira", 174, 26 ) );
+		deck.add( new Card( "Ghost", "Brawn", 130, 48 ) );
+		deck.add( new Card( "Fairy", "Cerulea", 162, 29 ) );
+		deck.add( new Card( "Dragon", "Demi", 147, 28 ) );
+		deck.add( new Card( "Ghost", "Elba", 155, 37 ) );
+		deck.add( new Card( "Fairy", "Fye", 159, 42 ) );
+		deck.add( new Card( "Dragon", "Glyede", 129, 26 ) );
+		deck.add( new Card( "Ghost", "Hydran", 163, 35 ) );
+		deck.add( new Card( "Fairy", "Ivy", 146, 45 ) );
+		deck.add( new Card( "Dragon", "Jet", 170, 24 ) );
+		deck.add( new Card( "Ghost", "Kineti", 139, 21 ) );
+		deck.add( new Card( "Fairy", "Levi", 160, 43 ) );
+		deck.add( new Card( "Dragon", "Meadow", 134, 29 ) );
+		deck.add( new Card( "Ghost", "Naidem", 165, 26 ) );
+		deck.add( new Card( "Fairy", "Omi", 145, 21 ) );
+		deck.add( new Card( "Dragon", "Puddles", 170, 34 ) );
+		deck.add( new Card( "Ghost", "Quarrel", 151, 29 ) );
+		deck.add( new Card( "Fairy", "Raven", 168, 32 ) );
+		deck.add( new Card( "Dragon", "Surge", 128, 27 ) );
+		deck.add( new Card( "Ghost", "Takiru", 140, 26 ) );
+		deck.add( new Card( "Fairy", "Ustelia", 163, 47 ) );
+		deck.add( new Card( "Dragon", "Verwyn", 145, 25 ) );
+		deck.add( new Card( "Ghost", "Wyverin", 158, 32 ) );
+		deck.add( new Card( "Fairy", "Xios", 155, 27 ) );
+		deck.add( new Card( "Dragon", "Yora", 159, 44 ) );
+		deck.add( new Card( "Ghost", "Zulu", 125, 46 ) );
+	}
